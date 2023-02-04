@@ -1,0 +1,14 @@
+cars = ["Ford", "Volvo", "BMW"]
+
+#Looping Array Elements
+for x in cars:
+  print(x)
+
+#Adding Array Elements
+cars.append("Honda")
+
+#Removing Array Elements
+cars.pop(1)
+
+cars.remove("Volvo")
+
